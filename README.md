@@ -36,7 +36,8 @@ To run the project, please download the source code and execute the `main_progra
 
 1. Ensure Python 3.7 and PyPI (pip) are installed.
 2. Install all the dependencies necessary.
-```pip install pyit2fls
+```
+pip install pyit2fls
 pip install numpy
 pip install matplotlib
 pip install pandas
