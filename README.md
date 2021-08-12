@@ -46,7 +46,7 @@ pip install pandas
 
 ## 4. Project Paper
 
-The paper has been accepted to the Inderscience International Journal of Intelligent Information and Database Systems. The preliminary citation of the paper may be given as such:
+The paper has been accepted to the Inderscience International Journal of Intelligent Information and Database Systems. If you refer to this project anywhere else, you may cite it as thus (IEEE format):
 ```
 S. H. Choudhury, J. Aurin, T. A. Mitaly, and R. M. Rahman, “Predicting the Possibility of COVID-19 Infection Using Fuzzy Logic System,” International Journal of Intelligent Information and Database Systems, 2020.
 ```
