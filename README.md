@@ -22,9 +22,9 @@
 
 The aim of this project was to create an app to predict the possibility an individual is infected by COVID-19 by looking at the external symptoms they exhibit, such as coughing or fever.
 
-To run the project, please download the source code and execute the `main_program.py` file.
+To run the project, please download the source code and follow the instructions.
 
-## 2. Packages and Libraries Used
+## 2. Main Packages and Libraries Used
 
 - [PyIT2FLS](https://github.com/Haghrah/PyIT2FLS)
 - Numpy
@@ -34,19 +34,20 @@ To run the project, please download the source code and execute the `main_progra
 
 ## 3. Setup Instructions
 
-1. Ensure Python 3.7 and PyPI (pip) are installed.
-2. Install all the dependencies necessary.
+1. Tested to be working on Python 3.7 and Python 3.8
+2. Install all the necessary dependencies.
 ```
-pip install pyit2fls
-pip install numpy
-pip install matplotlib
-pip install pandas
+pip install -r requirements.txt
 ```
-3. Execute the the `main_program.py` file.
+3. Execute the main file.
+```
+python main.py run
+```
 
-## 4. Project Paper
+## 4. Paper
 
-The paper has been accepted to the Inderscience International Journal of Intelligent Information and Database Systems. If you refer to this project anywhere else, you may cite it as thus (IEEE format):
-```
-S. H. Choudhury, J. Aurin, T. A. Mitaly, and R. M. Rahman, “Predicting the Possibility of COVID-19 Infection Using Fuzzy Logic System,” International Journal of Intelligent Information and Database Systems, 2020.
-```
+The paper has been accepted to the Inderscience International Journal of Intelligent Information and Database Systems. If you refer to this project anywhere else, please cite it:
+
+> *S.H. Choudhury, A.J. Aurin, T.A. Mitaly, R.M. Rahman, Predicting the possibility of COVID-19 infection using fuzzy logic system, Int. J. Intell. Inf. Database Syst., 14 (2021), pp. 239-256, 10.1504/IJIIDS.2021.116465*
+
+
